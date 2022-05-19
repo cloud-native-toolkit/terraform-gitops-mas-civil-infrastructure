@@ -1,0 +1,11 @@
+name: gitops-mas-civil-infrastructure
+type: gitops
+description: >-
+  Module to populate a gitops repo with the resources to provision
+  mas-civil-infrastructure
+tags:
+  - tools
+  - gitops
+versions: []
+softwareProvider: ibm
+id: github.com/cloud-native-toolkit/terraform-gitops-mas-civil-infrastructure
